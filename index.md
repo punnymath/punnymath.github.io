@@ -16,4 +16,4 @@ I have a <b>deep passion in designing mechanisms ,optimizing process flows and u
 
 
 ## The Rest of Me \o/
-While not engaged in some nerdy activity I spend quite an<b> ampful of time hitting the gym , sprinting around the squash or volleyball court and trying my hand on any other sport</b> that excites me. To rejuvinate and relax myself from the entire days work I confide in my<b> flute and piano</b>. Playing music has been my best tool to cope with stress. That being said I also am an <b>avid reader</b> and love to get lost in the realm of mystery and sci-fi.
+While not engaged in some nerdy activity I spend quite an<b> ampful amount of time hitting the gym , sprinting around the squash or volleyball court and trying my hand on any other sport</b> that excites me. To rejuvinate and relax myself from the entire days work I confide in my<b> flute and piano</b>. Playing music has been my best tool to cope with stress. That being said I also am an <b>avid reader</b> and love to get lost in the realm of mystery and sci-fi.

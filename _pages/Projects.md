@@ -11,7 +11,7 @@ author_profile: true
 ## Detection of Windmills from Satellite Images using Deep Neural Networks 
 <medium>May 2017-July 2017</medium>
 
-<p><b>Developed a neural network implementing the googLENET algorithm</b> to detect windmills in a satellite image at <b>ISRO,Jodhpur</b>.The network was concieved from a tensorflow API - TensorBox. In a three membered team I was assigned the role of extracting around 2000 satellite images and also pipelining the neural network. To get satellite images I <b>wrote scripts in Python that took in coordinates and downloaded the images from GoogleMaps</b>.The network will be<b> used by ISRO for the purpose of analysis and documentation</b> </p>
+<p><b>Developed a neural network implementing the googLENET algorithm</b> to detect windmills in a satellite image at <b>ISRO,Jodhpur</b>.The network was concieved from a tensorflow API - TensorBox. In a three membered team I was assigned the role of extracting around 2000 satellite images and also pipelining the neural network. To get satellite images I <b>wrote scripts in Python that took in coordinates and downloaded the images from GoogleMaps</b>.The network will be<b> used by ISRO for the purpose of analysis and documentation</b>. </p>
 
 ## Effect of cutting tool parameters on surface roughness using Neural Networks
 <medium>Feb 2017</medium>
@@ -21,16 +21,16 @@ author_profile: true
 ## Designing and manufacturing an autonomous robot and a semi-autonomous robot
 <medium>Mar 2016</medium>
 
-<p> As part of Team Robocon, Me and the team built two robots to compete in a pan-Asia competition ABU_Robocon 2016. Find more about the project <a href=""><b>here</b></a>.</p>
+<p> As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built two robots to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2016. Find more about the project <a href="/Robocon2016/"><b>here</b></a>.</p>
 
 ## Designing and manufacturing a manual disk propelling bot
 <medium>Mar 2017</medium>
 
-<p>As part of Team Robocon, Me and the team built a robot to compete in a pan-Asia competition ABU_Robocon 2016 .Find more about the project <a href=""><b>here</b></a></p>
+<p>As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built a robot to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2017 .Find more about the project <a href="/Robocon2017/"><b>here</b></a>.</p>
 
 ## Self-Regulating Eye Distance Maintainer
 <medium>Dec 2016 - Jan 2017 </medium>
 
-<p>Worked on building a working model of a <b>device that could carry a smart phone while constantly monitoring and adjusting the distance of the eye from the phone screen to reduce any strain to the eye</b>. The model consisted of two arms being operated by a <b>pair of servo motors connected to an arduino</b>. The design was seleceted for the <b>second round of APOGEE, Bits Pilani</b>(The techical fest in the university) </p>
+<p>Worked on building a working model of a <b>device that could carry a smart phone while constantly monitoring and adjusting the distance of the eye from the phone screen to reduce any strain to the eye</b>. The model consisted of two arms being operated by a <b>pair of servo motors connected to an arduino</b>. The design was seleceted for the <b>second round of APOGEE, Bits Pilani</b>(The University Technical Fest) </p>
 
 

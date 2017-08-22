@@ -13,7 +13,7 @@ author_profile: true
 ## Summer Research Intern at ISRO, Jodhpur
 <medium>May 2017 - July 2017</medium>
 <p>Worked on <b>creating a neural network implementing the googLENET algorithm</b> to detect windmills in a given satellite image, that will be used by <b>ISRO,Jodhpur for analysis and documentation</b>.</p>
-<p>Find more details <a href=""><b>here</b></a>.</p>
+<p>Find the report <a href="/PS1Report.pdf"><b>here</b></a> and the codes <a href="/Codes"><b>here</b></a>.</p>
 
 ## Summer Intern at Dubai Precast Concrete, Dubai 
 <medium> June 2016 - July 2016</medium>
