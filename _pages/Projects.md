@@ -11,7 +11,7 @@ author_profile: true
 ## Detection of Windmills from Satellite Images using Deep Neural Networks 
 <medium>May 2017-July 2017</medium>
 
-<p><b>Developed a neural network implementing the googLENET algorithm</b> to detect windmills in a satellite image at <b>ISRO,Jodhpur</b>.The network was concieved from a tensorflow API - TensorBox. In a three membered team I was assigned the role of extracting around 2000 satellite images and also pipelining the neural network. To get satellite images I <b>wrote scripts in Python that took in coordinates and downloaded the images from GoogleMaps</b>.The network will be<b> used by ISRO for the purpose of analysis and documentation</b>. </p>
+<p><b>Developed a neural network implementing the googLENET algorithm</b> to detect windmills in a satellite image at <b>ISRO, Jodhpur</b>.The network was concieved from a tensorflow API - TensorBox. In a three membered team I was assigned the role of extracting around 2000 satellite images and also pipelining the neural network. To get satellite images I <b>wrote scripts in Python that took in coordinates and downloaded the images from GoogleMaps</b>.The network will be<b> used by ISRO for the purpose of analysis and documentation</b>. </p>
 
 ## Effect of cutting tool parameters on surface roughness using Neural Networks
 <medium>Feb 2017</medium>
