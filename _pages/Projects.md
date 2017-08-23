@@ -23,12 +23,12 @@ author_profile: true
 ## Designing and manufacturing an autonomous robot and a semi-autonomous robot
 <medium>Mar 2016</medium>
 
-<p> As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built two robots to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2016. Find more about the project <a href="/Robocon2016/"><b>here</b></a>.</p>
+<p> As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built two robots to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2016. Find out more about the project <a href="/Robocon2016/"><b>here</b></a>.</p>
 
 ## Designing and manufacturing a manual disk propelling bot
 <medium>Mar 2017</medium>
 
-<p>As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built a robot to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2017 .Find more about the project <a href="/Robocon2017/"><b>here</b></a>.</p>
+<p>As part of <b>Team Robocon</b>,Bits Pilani, Me and the team built a robot to compete in a pan-Asia competition <a href="http://aburobocon.net/"><b>ABU-Robocon</b></a> 2017. Find out more about the project <a href="/Robocon2017/"><b>here</b></a>.</p>
 
 ## Self-Regulating Eye Distance Maintainer
 <medium>Dec 2016 - Jan 2017 </medium>
