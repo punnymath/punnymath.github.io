@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "INFINITY"
+title                    : "!nfinity"
 title_separator          : "-"
 name                     : "Ashutosh Purohit"
 description              : "Profile"
@@ -57,7 +57,7 @@ yandex_site_verification :
 twitter:
   username               :
 facebook:
-  username               :
+  username               : "AshutoshP24"
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         : "AshutoshP24"
   foursquare       :
-  github           : "punnymath"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "ashutosh-purohit-7a4993148"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
