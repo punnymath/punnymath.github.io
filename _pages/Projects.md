@@ -18,6 +18,8 @@ author_profile: true
 
 <p>The drive behind the project was to <b>understand the cutting tool parameters that would result in the least surface roughness</b>. We, a two membered team, chose <b>64 combinations of feed, cutting speed and depth of cut </b>and worked on a rod of mild steel. At each trial we evaluated the surface roughness using a roughness tester. After completing this task we then used the <b>nntoolbox inbuilt within MATLAB</b> to process our data and also compute the optimal values of the cutting tool parameters</p>
 
+<a name="robocon"></a>
+
 ## Designing and manufacturing an autonomous robot and a semi-autonomous robot
 <medium>Mar 2016</medium>
 
