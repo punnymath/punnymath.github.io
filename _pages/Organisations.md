@@ -2,6 +2,8 @@
 layout: archive
 permalink: /Organisations/
 author_profile: true
+header:
+    image: org.jpg
 ---
 
 {{ page.excerpt | markdownify }}

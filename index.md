@@ -1,6 +1,8 @@
 ---
 layout: archive
 author_profile: true
+header:
+    image: about1.jpg
 ---
 
 {{ page.excerpt | markdownify }}

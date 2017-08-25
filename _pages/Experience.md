@@ -2,6 +2,8 @@
 layout: archive
 permalink: /Experience/
 author_profile: true
+header:
+    image: experience.jpg
 ---
 
 {{ page.excerpt | markdownify }}

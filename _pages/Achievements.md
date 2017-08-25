@@ -2,6 +2,8 @@
 layout: archive
 permalink: /Achievements/
 author_profile: true
+header:
+    image: achieve.jpg
 ---
 
 {{ page.excerpt | markdownify }}

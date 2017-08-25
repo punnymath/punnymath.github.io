@@ -2,6 +2,8 @@
 layout: archive
 permalink: /Projects/
 author_profile: true
+header:
+    image: project.jpg
 ---
 
 {{ page.excerpt | markdownify }}
