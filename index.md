@@ -2,7 +2,7 @@
 layout: archive
 author_profile: true
 header:
-    image: about1.jpg
+    image: about.jpg
 ---
 
 {{ page.excerpt | markdownify }}
