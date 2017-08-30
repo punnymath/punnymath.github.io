@@ -14,6 +14,8 @@ header:
 	- Was awarded the <b>city zone topper</b> and achieved a <b>rank of 105 in the state level</b>.
 - Debate Competitions
 	- Have <b>won multiple debate competitions</b> in the state as well as city level
+- National Shotokan Karate Championship
+	- Stood <b>3 in Kata and Kumite</b> 
 - International English Olympiad
 	- Stood <b>22 in the state level</b> and was the <b>city topper</b>
 - Science Olympiads

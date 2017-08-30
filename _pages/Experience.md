@@ -20,7 +20,7 @@ header:
 ## Summer Intern at Dubai Precast Concrete, Dubai 
 <medium> June 2016 - July 2016</medium>
 <p>Worked as a<b> paid intern in the design department</b> and introduced the design team to the <b>benefits of SolidWorks in performing stress –strain analysis in hollow core slabs and other precast elements</b> and also examined and <b>suggested changes in the Production Department to increase efficiency</b>.</p>  
-<p>Find more details <a href=""><b>here</b></a>.</p>
+<p>Find more details <a href="/FinalReport.pdf"><b>here</b></a>.</p>
 
 # Education
 
