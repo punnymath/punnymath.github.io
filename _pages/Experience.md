@@ -39,7 +39,7 @@ header:
 <br>
 <small>2013-2015</small>
 <p>Navrachana Sama<br>
-   HSC Board<br>
+   CBSE Board<br>
    Percentage = 93%<br>
 </p>
 
