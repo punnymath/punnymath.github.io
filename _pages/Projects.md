@@ -1,6 +1,8 @@
 ---
 analytics:
-  provider: "custom"
+  provider: "google-universal"
+  google:
+    tracking_id: "UA-107279358-1"
 layout: archive
 permalink: /Projects/
 author_profile: true
