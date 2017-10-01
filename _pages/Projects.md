@@ -1,4 +1,6 @@
 ---
+analytics:
+  provider: "custom"
 layout: archive
 permalink: /Projects/
 author_profile: true

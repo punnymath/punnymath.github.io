@@ -1,4 +1,6 @@
 ---
+analytics:
+  provider: "custom"
 layout: archive
 permalink: /Experience/
 author_profile: true

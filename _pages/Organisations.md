@@ -1,4 +1,6 @@
 ---
+analytics:
+  provider: "custom"
 layout: archive
 permalink: /Organisations/
 author_profile: true

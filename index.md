@@ -1,4 +1,6 @@
 ---
+analytics:
+  provider: "custom"
 layout: archive
 author_profile: true
 header:

@@ -1,4 +1,6 @@
 ---
+analytics:
+  provider: "custom"
 layout: archive
 permalink: /Robocon2016/
 author_profile: true
