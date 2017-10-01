@@ -1,8 +1,6 @@
 ---
 analytics:
-  provider: "google-universal"
-  google:
-    tracking_id: "UA-107279358-1"
+  provider: "custom"
 layout: archive
 permalink: /Codes/
 author_profile: true
